@@ -1,10 +1,10 @@
-# app-com
+# appcom
 
-![Node](https://img.shields.io/node/v/app-com.svg?style=flat-square)
-[![NPM](https://img.shields.io/npm/v/app-com.svg?style=flat-square)](https://www.npmjs.com/package/app-com)
-[![Travis](https://img.shields.io/travis/flndr/app-com/master.svg?style=flat-square)](https://travis-ci.org/flndr/app-com)
-[![David](https://img.shields.io/david/flndr/app-com.svg?style=flat-square)](https://david-dm.org/flndr/app-com)
-[![Coverage Status](https://img.shields.io/coveralls/flndr/app-com.svg?style=flat-square)](https://coveralls.io/github/flndr/app-com)
+![Node](https://img.shields.io/node/v/appcom.svg?style=flat-square)
+[![NPM](https://img.shields.io/npm/v/appcom.svg?style=flat-square)](https://www.npmjs.com/package/appcom)
+[![Travis](https://img.shields.io/travis/flndr/app-com/master.svg?style=flat-square)](https://travis-ci.org/flndr/appcom)
+[![David](https://img.shields.io/david/flndr/app-com.svg?style=flat-square)](https://david-dm.org/flndr/appcom)
+[![Coverage Status](https://img.shields.io/coveralls/flndr/app-com.svg?style=flat-square)](https://coveralls.io/github/flndr/appcom)
 
 > Pub Sub Library for Communication in your App
 
@@ -52,11 +52,11 @@ appCom
 
 ### Examples
 
-See [`example`](example/script.js) folder or the [runkit](https://runkit.com/flndr/app-com) example.
+See [`example`](example/script.js) folder or the [runkit](https://runkit.com/flndr/appcom) example.
 
 ### Builds
 
-If you don't use a package manager, you can [access `app-com` via unpkg (CDN)](https://unpkg.com/app-com/), download the source, or point your package manager to the url.
+If you don't use a package manager, you can [access `appcom` via unpkg (CDN)](https://unpkg.com/appcom/), download the source, or point your package manager to the url.
 
 `app-com` is compiled as a collection of [CommonJS](http://webpack.github.io/docs/commonjs.html) modules & [ES2015 modules](http://www.2ality.com/2014/0
   -9/es6-modules-final.html) for bundlers that support the `jsnext:main` or `module` field in package.json (Rollup, Webpack 2)
